@@ -1,0 +1,17 @@
+#header {
+  padding: 28px 15px 18px;
+}
+#header .container {
+  max-width: 1170px;
+}
+#header .container .logo {
+  width: 250px;
+}
+#header .container .header-nav_categories {
+  margin: 0 10px 0 10px;
+  color: #E8EBD8;
+  font-family: "trade_gothic_lt_stdextended";
+}
+#header .container .header-nav_categories:hover {
+  background-color: rgb(31, 31, 31);
+}/*# sourceMappingURL=header.css.map */

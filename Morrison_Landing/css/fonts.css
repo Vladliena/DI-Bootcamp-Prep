@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: 'futurablack';
+    src: url('../fonts/futura_black-webfont.woff2') format('woff2'),
+         url('../fonts/futura_black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'akzidenzgroteskregular';
+    src: url('../fonts/fontsfree-net-akzidenz-grotesk-roman-webfont.woff2') format('woff2'),
+         url('../fonts/fontsfree-net-akzidenz-grotesk-roman-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'trade_gothic_lt_stdextended';
+    src: url('../fonts/trade_gothic_lt_std_extended-webfont.woff2') format('woff2'),
+         url('../fonts/trade_gothic_lt_std_extended-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

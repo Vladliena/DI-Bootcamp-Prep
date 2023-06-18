@@ -1,0 +1,14 @@
+@import "./header.css";
+@import './fonts.css';
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+$Akzidenz_font: 'akzidenzgroteskregular';
+$FuturaBlack_font: 'futurablack';
+$TradeGothic_font: 'trade_gothic_lt_stdextended';
+$MainText_color: #E8EBD8;
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}

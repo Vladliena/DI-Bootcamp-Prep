@@ -1,0 +1,21 @@
+.container {
+    max-width: 1170px;
+
+    #header {
+        padding: 28px 15px 18px;
+
+        .logo {
+            width: 250px;
+        }
+
+        .header-nav_categories {
+            margin: 0 10px 0 10px;
+            color: $MainText_color;
+            font-family: $TradeGothic_font;
+
+            &:hover {
+                background-color: rgb(31, 31, 31);
+            }
+        }
+    }
+}
